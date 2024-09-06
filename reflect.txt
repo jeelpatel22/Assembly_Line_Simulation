@@ -1,0 +1,27 @@
+/*************************
+// Intro. to Object Oriented Programming
+// Milestone 3
+// Version 1.0
+// Description
+// professor's tester program
+//
+// Revision History
+// -----------------------------------------------------------
+// Name :Jeelkumar Vinodkumar Patel           Date : 02-12-2023           Reason
+//Student ID: 115766222
+//Student mail: jpatel391@myseneca.ca
+
+
+//Authentication Declaration:
+
+//I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
+/////////////////////////////////////////////////////////////////
+*************************/
+
+
+Initially, the project felt overwhelming, but breaking it down into smaller steps made it feel more manageable, almost like piecing together a Lego set. This approach really enhanced the whole experience, and I'm proud to say I got it working. It's pretty exciting to see how applying what we've learned lets us build something so cool. Using Vector has been a game-changer in making coding easier, and the algorithm library is a fantastic resource. I'm gaining so much knowledge and genuinely enjoying this class.What's more is that doing workshops helps us a lot to improve our thinking abilities and it also helped me in this project as well which I think is more beneficial for me in the  future.
+
+
+
+
+
